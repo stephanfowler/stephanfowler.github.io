@@ -9,8 +9,25 @@ layout: default
   </header>
 
   <article class="post-content">
-    <img src="{{ page.thumbnail }}" />
+    <img class="thumbnail" src="{{ page.thumbnail }}" />
     {{ content }}
   </article>
 
 </div>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.title != page.title %}
+      <div class="teaser">
+          <div class="teaser__inner">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img class="thumbnail" src="{{ post.thumbnail }}" /></a>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </div>
+      </div>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+
