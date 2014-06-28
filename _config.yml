@@ -1,0 +1,10 @@
+# Site settings
+title: Stephan Fowler - Web Developer
+#email: your-email@domain.com
+description: "I develop websites and web applications for newspaper companies. Currently at The Guardian."
+#baseurl: ""
+url: "http://stephanfowler.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
