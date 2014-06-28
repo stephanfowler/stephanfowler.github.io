@@ -3,11 +3,11 @@ title: SiteApps vs WebApps
 author: stephanfowleradmin
 layout: post
 permalink: /2012/12/siteapps-vs-webapps/
+thumbnail: /assets/2012/12/siteapps.jpg
 categories:
   - apps
   - Responsive
 ---
-<img src="/assets/2012/12/siteapps.jpg" alt="siteapps" width="200" height="130" class="alignleft size-full wp-image-200" />
 
 There&#8217;s an emerging class of website that tries to behave as much as possible like an app &#8211; to the extent that a device&#8217;s capabilities enable it to. I think the label &#8220;siteapp&#8221; suits such websites. They&#8217;re sites that transform themselves into apps &#8211; if possible. 
 

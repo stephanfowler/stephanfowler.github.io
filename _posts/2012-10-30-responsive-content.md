@@ -3,11 +3,11 @@ title: Responsive Content
 author: stephanfowleradmin
 layout: post
 permalink: /2012/10/responsive-content/
+thumbnail: /assets/2012/12/the-next-web.png
 categories:
   - Javascript
   - Responsive
 ---
-<img src="/assets/2012/12/the-next-web.png" alt="the-next-web" width="200" height="84" class="alignleft size-full wp-image-35" />
 
 [TheNextWeb][1] picked up on my [**Responsive Content**][2] plugin. It helps serve different content payloads to different size devices, and tackles one of the negative performance implications of pure CSS responsive design, i.e. that unnecessary page elements and unnecessarily large images get sent to mobile devices, only to then be hidden or downsized in the mobile layout. See [an example][3] in use.
 

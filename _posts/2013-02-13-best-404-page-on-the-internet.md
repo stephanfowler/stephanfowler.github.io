@@ -3,10 +3,10 @@ title: Best 404 page on the internet!!
 author: stephanfowleradmin
 layout: post
 permalink: /2013/02/best-404-page-on-the-internet/
+thumbnail: /assets/2013/02/buzzfeed.png
 categories:
   - Uncategorized
 ---
-[<img src="/assets/2013/02/buzzfeed.png" alt="buzzfeed" width="200" height="123" class="alignleft size-full wp-image-243" />][1]
 
 [Buzzfeed][1] has formally decreed that the Metro 404 page is the best on the entire InterWeb. 
 

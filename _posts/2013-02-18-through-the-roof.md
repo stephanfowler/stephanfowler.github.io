@@ -3,10 +3,10 @@ title: Through the Roof
 author: stephanfowleradmin
 layout: post
 permalink: /2013/02/through-the-roof/
+thumbnail: /assets/2013/02/journalism.co_.uk_.jpg
 categories:
   - Uncategorized
 ---
-<img src="/assets/2013/02/journalism.co_.uk_.jpg" alt="journalism.co.uk" width="200" height="66" class="alignleft size-full wp-image-261" />
 
 From a [journalism.co.uk article][1] about Metro:
 

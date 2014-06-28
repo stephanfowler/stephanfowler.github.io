@@ -3,10 +3,10 @@ title: 'What&#8217;s behind the front page?'
 author: stephanfowleradmin
 layout: post
 permalink: /2014/04/whats-behind-the-front-page/
+thumbnail: /assets/2014/04/guardian-beta.png
 categories:
   - Uncategorized
 ---
-<img src="/assets/2014/04/guardian-beta.png" alt="guardian-beta" width="200" height="220" class="alignleft size-full wp-image-349" />
 
 I wrote a [Guardian Beta blog][1]:
 

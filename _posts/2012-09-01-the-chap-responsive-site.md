@@ -3,11 +3,11 @@ title: 'The Chap : Responsive Site'
 author: stephanfowleradmin
 layout: post
 permalink: /2012/09/the-chap-responsive-site/
+thumbnail: /assets/2012/09/chap.jpg
 categories:
   - Publishing
   - Responsive
 ---
-<img src="/assets/2012/09/chap.jpg" alt="chap" width="200" height="162" class="alignleft size-full wp-image-145" />
 
 I&#8217;ve rebuilt the [**Chap&nbsp;Magazine**][1]&#8216;s site. It&#8217;s responsive. If you compare it on mobile, tablet, then desktop, you&#8217;ll notice increasing amounts of story teasers on home/section pages, as well as increasing (true) image sizes. 
 

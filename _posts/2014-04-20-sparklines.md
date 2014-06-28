@@ -3,10 +3,10 @@ title: Sparklines
 author: stephanfowleradmin
 layout: post
 permalink: /2014/04/sparklines/
+thumbnail: /assets/2014/04/sparkline.png
 categories:
   - Uncategorized
 ---
-<img src="/assets/2014/04/sparkline.png" alt="sparkline" width="200" height="120" class="alignleft size-full wp-image-357" />
 
 The Guardian has an [in-house system called Ophan][1] that collects a vast stream of &#8220;attention data&#8221;, covering every page click and transition across the site. I build [a service][2] that returns these plotted in various cuts as small sparkline images. It&#8217;s built in NodeJs and is integrated into the [tools][3] I&#8217;ve been developing for editing the front and section pages of the [new Guardian site][4].
 
