@@ -1,4 +1,1 @@
-stephanfowler.github.io
-=======================
-
-Stephan Fowler - web developer
+[stephanfowler.com](http://stephanfowler.com)
