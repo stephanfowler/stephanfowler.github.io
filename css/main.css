@@ -53,7 +53,7 @@ a:visited { color: #2a7ae2; }
 .site-subtitle {
   font-size: 35px;
   letter-spacing: -1.75px;
-  line-height: 45px;
+  line-height: 35px;
   white-space: nowrap;
 }
 
@@ -62,14 +62,12 @@ a:visited { color: #2a7ae2; }
 .site-title:visited {
     color: #000;
     margin-right: 10px;
-    text-transform: uppercase;
 }
 
 .site-subtitle,
 .site-subtitle:hover,
 .site-subtitle:visited {
     color: #999;
-    text-transform: lowercase;
 }
 
 .site-description {
@@ -80,7 +78,7 @@ a:visited { color: #2a7ae2; }
 }
 
 .links {
-    margin: 10px 0;
+    margin-bottom: 10px;
 }
 
 .links a {
@@ -163,7 +161,7 @@ a:visited { color: #2a7ae2; }
 /* ----------------------------------------------------------*/
 
 .page-content {
-  padding: 30px 0;
+  padding: 10px 0;
   background-color: #eeeeff;
 }
 
@@ -427,11 +425,6 @@ a:visited { color: #2a7ae2; }
     width: 100%;
   }
 
-
-  .thumbnail {
-    width: 100px;
-  }
-
   .post-content img {
     padding: 5px;
     margin: 0 10px 10px 0;
@@ -495,5 +488,17 @@ a:visited { color: #2a7ae2; }
     clear: both;
     width: auto;
     margin: 0 0 15px; }
+
+    .posts .post-link {
+        font-size: 18px
+    }
+
+    .teaser__inner {
+        height: 70px;
+    }
+
+  .thumbnail {
+    width: 100px;
+  }
 
 }
