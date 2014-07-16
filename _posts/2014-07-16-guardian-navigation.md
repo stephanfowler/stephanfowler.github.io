@@ -1,5 +1,5 @@
 ---
-title: 'New Guardian navigation'
+title: 'Guardian navigation'
 author: stephanfowleradmin
 layout: post
 permalink: /2014/07/guardian-navigation/
