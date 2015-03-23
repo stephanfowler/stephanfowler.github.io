@@ -1,5 +1,5 @@
 ---
-title: 'News alerts'
+title: 'Breaking News - I'
 author: stephanfowleradmin
 layout: post
 permalink: /2014/07/breaking-news/
