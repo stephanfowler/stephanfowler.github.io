@@ -1,8 +1,8 @@
 ---
-title: 'A new Guardian'
+title: 'Live newsdesk hack'
 author: stephanfowleradmin
 layout: post
-permalink: /2015/01/new-guardian/
+permalink: /2015/01/live-newsdesk/
 thumbnail: /assets/2015/01/live-newsdesk.gif
 categories:
   - Uncategorized
