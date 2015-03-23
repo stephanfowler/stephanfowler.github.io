@@ -1,5 +1,5 @@
 ---
-title: 'The new Guardian'
+title: 'A new Guardian'
 author: stephanfowleradmin
 layout: post
 permalink: /2015/01/new-guardian/
