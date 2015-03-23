@@ -8,4 +8,4 @@ categories:
   - Uncategorized
 ---
 
-A simple solution to tracking the Guardian topics (tags, sections, etc.) that a user visits most frequently over the preceding month, and giving these back to the user as handy navigational links. This happens clientside only by keepineg a histogram of visit frequencies in localStorage, then ranking them, and displaying them in the site's expandable navigation bar.
+A simple solution to tracking the Guardian topics (tags, sections, etc.) that a user visits most frequently over the preceding month, and giving these back to the user as handy navigational links. This happens clientside only by keeping a histogram of visit frequencies in localStorage, then ranking them, and displaying them in the site's expandable navigation bar.
