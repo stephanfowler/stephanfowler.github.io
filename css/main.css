@@ -276,6 +276,12 @@ a:visited { color: #2a7ae2; }
 .post-content ol { padding-left: 20px; }
 
 .post-content img {
+   display: block;
+   width: 100%;  
+    margin: 30px 0;
+}
+
+.post-content img.thumbnail {
     float: left;
     margin: 0 30px 30px 0;
     padding: 20px;
@@ -426,7 +432,7 @@ a:visited { color: #2a7ae2; }
     width: 100%;
   }
 
-  .post-content img {
+  .post-content img.thumbnail {
     padding: 5px;
     margin: 0 10px 10px 0;
   }
