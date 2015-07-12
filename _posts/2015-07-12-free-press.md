@@ -8,4 +8,6 @@ categories:
   - Uncategorized
 ---
 
-For Guardian HackDay, a system for crowdsourcing "related content". The idea is to promote the Guardian as first-port-of-call news destination by identifying quality journalism - through consensus - from across the news ecosystem. It could be syndicated to participating orgs, and could potentially pop-up on non-participating sites to drive traffic to related Guardia articles.
+Prototype system for crowdsourcing "related content" for arbitrary articles. The idea is to promote the Guardian as first-port-of-call news destination by identifying quality journalism - through consensus - from across the news ecosystem. It could be syndicated to participating orgs, and could potentially pop-up on non-participating sites to drive traffic to related Guardia articles.
+
+Developed for For Guardian HackDay.
