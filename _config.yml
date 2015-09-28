@@ -1,8 +1,8 @@
 # Site settings
 title: Stephan Fowler
-subtitle: News Product Developer
+subtitle: News Product Development
 #email: your-email@domain.com
-description: "I develop websites and web applications for newspaper companies. Currently at The Guardian."
+description: "Websites for newspaper companies. Currently at The Guardian."
 baseurl: ""
 url: "http://stephanfowler.com"
 
