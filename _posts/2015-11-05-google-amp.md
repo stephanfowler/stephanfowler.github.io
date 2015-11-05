@@ -1,5 +1,5 @@
 ---
-title: 'The Guardian & Google AMP'
+title: 'Guardian + Google AMP'
 author: stephanfowleradmin
 layout: post
 permalink: /2015/11/google-amp
