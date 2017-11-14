@@ -44,7 +44,6 @@ a:visited { color: #2a7ae2; }
 
 .site-header {
   border-top: 15px solid #666;
-  border-bottom: 10px dotted #eeeeff;
   background-color: white;
 }
 
@@ -164,7 +163,7 @@ a:visited { color: #2a7ae2; }
 
 .page-content {
   padding: 10px 0;
-  background-color: #eeeeff;
+  background-color: #f9fff8;
 }
 
 
