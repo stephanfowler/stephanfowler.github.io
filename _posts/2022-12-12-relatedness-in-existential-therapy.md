@@ -3,7 +3,7 @@ title: 'Relatedness and Existential Therapy'
 author: stephanfowleradmin
 layout: post
 permalink: /2022/12/relatedness-and-existentialtherapy
-thumbnail: 
+thumbnail: /assets/2022/fish.png
 categories:
   - Uncategorized
 ---
