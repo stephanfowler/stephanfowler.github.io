@@ -8,6 +8,6 @@ categories:
   - Uncategorized
 ---
 
-In 2022 I completed a Certificate in Psychotherapy & Counselling - the start of a training pathway into being a therapeutic counsellor. Here's something I wrote
+In 2022 I completed a Certificate in Psychotherapy & Counselling - the start of a pathway towards qualification as a registered counsellor. Here's something I wrote
 during the course, on [Relatedness and Existential Therapy](https://medium.com/@stephanfowler/relatedness-and-existential-therapy-6e010005faa7).
 
